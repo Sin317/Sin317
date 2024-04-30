@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm Khushi  
+
+- 🔭 I’m currently a pursuing Masters in Computer Science from Rochester Institute of Technology <a href="https://www.rit.edu/" target="_blank"> <img src="https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/inline-images/new_RIT_logo1_RGB_0.png" alt="RIT" width="18" height="10"/> </a>
+- 🌱 I’m currently learning RUST programming and ML. I have a passion for algorithms
+- 💬 Ask me about Python, Openshift, Kubernetes, AWS, Backend Development
+- 📫 How to reach me: <a href="mailto:khushim13@gmail.com">khushim13@gmail.com</a>
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love debates!
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/khushi-mahesh">Linkedin</a> | 
+<a href="https://leetcode.com/quincy13">Leetcode</a>
+</p>
 
 <!--
 **Sin317/Sin317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
