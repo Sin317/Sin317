@@ -8,18 +8,18 @@
 - ⚡ Fun fact: I love debates!
 
 ### 🤝🏻 &nbsp;Connect with Me
-<!--
+
 <p align="left">
 <a href="https://linkedin.com/in/khushi-mahesh">Linkedin</a> | 
 <a href="https://leetcode.com/quincy13">Leetcode</a>
 </p>
--->
+<!--
 <div id="badges">
-  <a href="[your-linkedin-URL](https://linkedin.com/in/khushi-mahesh)">
+  <a href="[https://linkedin.com/in/khushi-mahesh](https://linkedin.com/in/khushi-mahesh)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+-->
 <!--
 **Sin317/Sin317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
