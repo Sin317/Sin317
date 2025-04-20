@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Khushi  
 
-- 🔭 I’m currently a pursuing Masters in Computer Science from Rochester Institute of Technology <a href="https://www.rit.edu/" target="_blank"> <img src="https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/inline-images/new_RIT_logo1_RGB_0.png" alt="RIT" width="18" height="10"/> </a>
+- 🔭 I have a Masters in Computer Science from Rochester Institute of Technology <a href="https://www.rit.edu/" target="_blank"> <img src="https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/inline-images/new_RIT_logo1_RGB_0.png" alt="RIT" width="18" height="10"/> </a>
 - 🌱 I’m currently learning programming in RUST and ML/AI. I have a passion for algorithms!
 - 💬 Ask me about Python, Kubernetes, AWS, Backend Development
 - 📫 How to reach me: <a href="mailto:khushim13@gmail.com">khushim13@gmail.com</a>
